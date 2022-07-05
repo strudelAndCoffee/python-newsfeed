@@ -9,6 +9,3 @@ def format_plural(amount, word):
     return word + 's'
 
   return word
-
-print(format_plural(2, 'cat'))
-print(format_plural(1, 'dog'))
